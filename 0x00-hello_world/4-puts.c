@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-*main-"Print"
+* main-"Print"
 *
-*followed by a new line
-*Return:"Always 0"
+* followed by a new line
+* Return:"Always 0"
 **/
 int main(void)
 
