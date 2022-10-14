@@ -2,7 +2,7 @@
 
 /**
 * main-"write"
-* description
+*
 * followed by a new line
 * Return:"Always (0)"
 **/
