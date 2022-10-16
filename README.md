@@ -1,1 +1,1 @@
-This repository contains C scripts and code
+This Directory contains basis C variables, if, else and while code
