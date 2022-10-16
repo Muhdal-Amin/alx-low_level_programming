@@ -1,1 +1,1 @@
-This Directory contains basis C variables, if, else and while code
+This repository contains basic C code
