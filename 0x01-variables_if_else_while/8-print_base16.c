@@ -61,7 +61,9 @@ putchar(alpha);
 }
 
 putchar('\n');
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6efcc9aaa0276c3b801110275d962f3e56a9917
 return (0);
-
 }
