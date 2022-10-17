@@ -1,3 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 
 /**
@@ -28,9 +60,7 @@ for (alpha = 'a'; alpha <= 'f'; alpha++)
 putchar(alpha);
 }
 
-
-  
- putchar('\n');	
+putchar('\n');
 
 return (0);
 
