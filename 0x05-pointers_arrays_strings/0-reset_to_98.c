@@ -22,4 +22,5 @@ int main(void)
 
 	printf("Value of n after is %d\n", n);
 
+	return (0);
 }
