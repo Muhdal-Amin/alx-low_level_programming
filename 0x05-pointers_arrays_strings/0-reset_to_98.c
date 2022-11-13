@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * 0-reset_to_98.c - Code entry point
+ * reset_to_98 - updates the value it points to, to 98
+ *
+ * @n: pointer to an int
  *
  * Return: Always 0 (success)
  */
