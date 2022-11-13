@@ -1,26 +1,12 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Code entry point
- *
- * followed by a new line
+ * 0-reset_to_98.c - Code entry point
  *
  * Return: Always 0 (success)
  */
 
-int main(void)
+void reset_to_98(int *n)
 {
-	int n;
-	int *p;
-
-	n = 402;
-	p = &n;
-
-	printf("Value of n is %d\n", n);
-
-	*p = 98;
-
-	printf("Value of n after is %d\n", n);
-
-	return (0);
+	*n = 98;
 }
