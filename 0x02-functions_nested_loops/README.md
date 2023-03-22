@@ -1,0 +1,1 @@
+This directory contains the ALX structure and functions in C project code
