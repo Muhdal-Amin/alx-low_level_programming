@@ -1,0 +1,1 @@
+This directory contains the ALX Structure and Functions in C course.
