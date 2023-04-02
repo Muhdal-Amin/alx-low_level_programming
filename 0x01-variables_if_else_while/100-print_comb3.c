@@ -3,45 +3,33 @@
 #include <time.h>
 
 /**
- * main - Code entry point
- *
- * followe by a new line
+ * main -prints all possible different combinations of 2 digits
  *
  * Return: Always 0 (Success)
-*/
+ */
 
-int main(void)	
-{	
-	int comb1, comb2;	
-	for (comb1 = '0'; comb2 <= '9'; comb1++)
+int main(void)
+{
+	int d, p;
+
+	for (d = '0'; d < '9'; d++)
 	{
-		for (comb2 = comb1 + 1; comb2 <= '9'; comb2++)
+		for (p = d + 1; p <= '9'; p++)
 		{
-			if (comb1 != comb2)
+			if (p != d)
 			{
-				putchar(comb1);
-				putchar(comb2);
-				if (comb1 == '8' && comb2 == '9')
+				putchar(d);
+				putchar(p);
+
+				if (d == '8' && p == '9')
 					continue;
+
 				putchar(',');
 				putchar(' ');
-					}
+			}
 		}
-	}	
+	}
 	putchar('\n');
+
 	return (0);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
