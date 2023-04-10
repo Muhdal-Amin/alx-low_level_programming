@@ -1,0 +1,1 @@
+This directory contains my Project files for the C - Static libraries course at ALX Holberton school.
