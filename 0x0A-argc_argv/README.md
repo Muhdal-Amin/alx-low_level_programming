@@ -1,0 +1,1 @@
+This directory contains my C - Argv, Argc project files from ALX Holberton school.
