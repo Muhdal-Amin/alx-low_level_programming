@@ -1,0 +1,1 @@
+This directory contains my project files for the ALX holberton school C - Malloc, free course.
