@@ -9,6 +9,7 @@
  *
  *Description: define data for struct dog
  */
+
 typedef struct dog
 {
 	char *name;
