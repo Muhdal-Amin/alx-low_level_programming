@@ -1,0 +1,1 @@
+This drectory contains my project files for the ALX Holberton school C - Structures and typedef course.
