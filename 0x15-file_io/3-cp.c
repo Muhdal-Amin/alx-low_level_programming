@@ -47,8 +47,8 @@ int cp(char *file_to, char *file_from)
 }
 /**
  * main - the main function
- * @ac: the argument count
- * @av: the argument vector
+ * @argc: the argument count
+ * @argv: the argument vector
  * Return: always 0
  */
 
