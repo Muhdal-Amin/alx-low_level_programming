@@ -1,0 +1,1 @@
+This directory contains my project files for my C - Doubly linked lists course at ALX Holberton school.
