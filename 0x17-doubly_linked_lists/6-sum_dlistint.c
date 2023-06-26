@@ -9,16 +9,16 @@
 
 int sum_dlistint(dlistint_t *head)
 {
-  int sum;
+	int sum;
 
-  while (head == NULL)
-    return (0);
+	while (head == NULL)
+		return (0);
 
-  sum = 0;
-  while (head != NULL)
-    {
-      sum += head->n;
-      head = head->next;
-    }
-  return (sum);
+	sum = 0;
+	while (head != NULL)
+	{
+		sum += head->n;
+		head = head->next;
+	}
+	return (sum);
 }
