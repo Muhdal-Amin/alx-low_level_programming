@@ -1,0 +1,1 @@
+This directory contains my ALX Holberton school C - Hash tables course.
